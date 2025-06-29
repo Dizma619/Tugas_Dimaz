@@ -1,6 +1,6 @@
 <?php
 
-echo strlen("Muhamad Subhan");
+echo strlen("Dimaz Faqihurrahman");
 
 echo "</br>";
 
